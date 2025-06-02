@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy [Tu Nombre]
+# 👋 ¡Hola! Soy Marcos Benassi
 
 Soy un apasionado del mundo tech con más de 10 años de experiencia en soporte técnico y liderazgo de equipos en el rubro informático, especialmente en entornos **retail**. En los últimos años, mi camino profesional dio un giro hacia la **Inteligencia Artificial**, el **Data Science** y el **Business Intelligence**, campos donde actualmente me estoy formando y desarrollando proyectos.
 
